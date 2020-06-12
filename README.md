@@ -4,8 +4,23 @@ The Coursera Global Skills Index (GSI) draws upon this rich data to benchmark 60
 
 Static choropleth map for AI skill index
 
-https://github.com/MaximMerenkov/AI-Skills-Index-report-and-Investment/issues/1#issue-637420765
+![image](https://user-images.githubusercontent.com/47306096/84455009-34a42d00-ac2a-11ea-8b5a-75f3c0cd9fd0.png)
+
+
+
+
+
 
 Machine Learning Skill Index in 2019
-AI global investment:
+
+
+![image](https://user-images.githubusercontent.com/47306096/84455369-2e628080-ac2b-11ea-9652-f14ce3afa7f1.png)
+
+
+
+
+
+AI global investment
+
 ![image](https://user-images.githubusercontent.com/47306096/84455739-12131380-ac2c-11ea-95fe-93affbf3064f.png)
+
