@@ -18,6 +18,7 @@ Machine Learning Skill Index in 2019
 
 
 
+![image](https://user-images.githubusercontent.com/47306096/84456040-fceab480-ac2c-11ea-9d5e-c292369b39af.png)
 
 
 AI global investment
