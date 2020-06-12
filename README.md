@@ -6,3 +6,5 @@ Static choropleth map for AI skill index
 
 https://github.com/MaximMerenkov/AI-Skills-Index-report-and-Investment/issues/1#issue-637420765
 
+Machine Learning Skill Index in 2019
+
