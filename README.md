@@ -4,5 +4,5 @@ The Coursera Global Skills Index (GSI) draws upon this rich data to benchmark 60
 
 Static choropleth map for AI skill index
 
-
+https://github.com/MaximMerenkov/AI-Skills-Index-report-and-Investment/issues/1#issue-637420765
 
